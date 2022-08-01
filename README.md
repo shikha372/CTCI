@@ -1,2 +1,2 @@
 # CTCI
-solution of cracking the coding interview problems in python
+Solution of cracking the coding interview problems in python
